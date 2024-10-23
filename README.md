@@ -4,7 +4,9 @@ This tool allows updating of AiXun T3A/T3B/T320/T420D without installing their v
 
 # Original repo
 
-This is a copy of the original repo by *Michael Niewöhner* (c0d3z3r0)
+This is a copy of the <a href="https://github.com/c0d3z3r0/aixun_t3x_updater">original repo by *Michael Niewöhner* (c0d3z3r0)</a>
+
+Also <a href="https://github.com/c0d3z3r0/aixun_t3a_rev">look here</a> for background information!
 
 I made this copy because I don't like to modify the phython environment on my computer (iMac).
 The t3xupdate.py program is modified so it uses a python *Virtual Environment* (**venv**) in which 
